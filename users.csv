@@ -1,0 +1,3 @@
+first_name,last_name,email,phone,password,address,city,state
+John,Doe,john.doe@email.com,1234567890,password123,123 Main St,Anytown,CA
+Jane,Smith,jane.smith@email.com,0987654321,securepassword,456 Oak Ave,Someplace,NY
